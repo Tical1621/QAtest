@@ -15,7 +15,7 @@ public class DropDownPage {
     }
     public void browserSettings(){
         driver.manage().window().maximize();
-        driver.manage().deleteAllCookies();
+        //driver.manage().deleteAllCookies();
 
     }
 }
